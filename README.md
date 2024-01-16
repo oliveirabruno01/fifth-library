@@ -17,7 +17,7 @@ Currently this contains:
 In the future I may or not:
 - Add all SRD spells, also facilitated by u/droidruid esforces
 - Add a dataset with completely random custom monsters, using LLMs
-- Upload the code I used to parse everything together and to generate the augmented lores
+- Upload the code I used to parse everything together and to generate the augmented lores + python bindings for SRD 5.1
 - Finish and upload an explorer.
 
 H/T to [OpenRouter](https://openrouter.ai/models/openchat/openchat-7b) for providing 0-cost inference
